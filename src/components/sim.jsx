@@ -13,9 +13,9 @@ function Sim() {
       </div>
       <h1>Meus Projetos</h1>
       <div className="card">
-        <button onClick={() => navigate("/")}>
-          TechLab(A Implementar)
-        </button>
+        <a href="https://tech-labv2-front.vercel.app/"><button>
+          TechLab
+        </button></a>
         <a href="https://notafacil.vercel.app/" target="_blank"><button>
           NotaFácil
         </button></a>
